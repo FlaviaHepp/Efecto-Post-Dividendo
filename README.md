@@ -83,3 +83,64 @@ Diferencia negativa:
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+💸 **¿El precio cae exactamente lo mismo que el dividendo? No siempre.**
+
+Existe una idea muy difundida en el mercado:
+
+👉 En la fecha ex-dividendo, el precio de la acción debería caer exactamente el valor del dividendo.
+
+Pero… ¿qué pasa en la práctica?
+
+---
+
+📊 En este análisis comparé:
+
+* Cierre del día previo
+* Apertura del día ex-dividendo
+* Dividendo pagado
+
+Y medí la diferencia real vs. lo esperado.
+
+---
+
+⚠️ Resultado:
+
+👉 Muchas veces, la caída del precio:
+
+* Es **mayor** al dividendo → presión vendedora adicional
+* Es **menor** al dividendo → absorción o demanda fuerte
+* O incluso… **no sigue la lógica esperada**
+
+---
+
+🧠 ¿Qué nos dice esto?
+
+El mercado no ajusta precios de forma mecánica.
+El dividendo es solo una parte de la historia.
+
+También influyen:
+
+* Expectativas futuras
+* Flujo institucional
+* Sentimiento del mercado
+
+---
+
+📉 Insight clave:
+**El “descuento por dividendo” no es una regla… es una referencia.**
+
+---
+
+🔍 Este tipo de análisis permite detectar:
+✔️ Ineficiencias post-evento
+✔️ Oportunidades de arbitraje
+✔️ Comportamientos anómalos del mercado
+
+---
+
+En finanzas, lo teórico importa…
+pero lo que realmente paga es entender cómo se comporta el mercado de verdad.
+
+#Trading #Quant #DataScience #Dividendos #EventDriven #Finanzas #MarketInefficiencies
